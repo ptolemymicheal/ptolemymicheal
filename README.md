@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning and collaborating 
 - 🌱 I’m currently learning JavaScript and React
 - 💞️ I’m looking to collaborate on beginner to intermediate open source projects 
-- 📫 How to reach me
+- 📫 You can send me an email on abioduneise@gmail.com 
 
 <!---
 ptolemymicheal/ptolemymicheal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
